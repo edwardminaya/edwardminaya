@@ -15,7 +15,6 @@ Other Interests Include:
 Learning Progress
 - [Continuous Learning](https://github.com/edwardminaya/continuous-learning)
 - [Working Journal](https://github.com/edwardminaya/continuous-learning/tree/main/Journal)
-- [Ruby](https://github.com/edwardminaya/deliberate-practice-ruby)
 
 
 ### Background
