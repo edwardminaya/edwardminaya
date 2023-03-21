@@ -13,8 +13,8 @@ Other Interests Include:
 - SQL, REST, Linux, Apache, Docker
 
 Learning Progress
-[Working Journal](https://github.com/edwardminaya/continuous-learning/tree/main/Journal)
-[Ruby](https://github.com/edwardminaya/deliberate-practice-ruby)
+- [Working Journal](https://github.com/edwardminaya/continuous-learning/tree/main/Journal)
+- [Ruby](https://github.com/edwardminaya/deliberate-practice-ruby)
 
 
 ### Background
