@@ -22,7 +22,7 @@ I have a B.S. in Industrial Engineering and an M.B.A in Organizational Leadershi
 - Root Cause Analysis & Troubleshooting
 - Lean Six Sigma
 - Continuous Improvement
-[For more details see my LinkedIn](https://www.linkedin.com/in/edminaya/)
+- [For more details see my LinkedIn](https://www.linkedin.com/in/edminaya/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardminaya)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardminaya&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
