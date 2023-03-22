@@ -1,13 +1,15 @@
-## Hi, I'm Edward 👋
+# Hi, I'm Edward 👋
+## Full Stack Software Engineer
 
-### Full Stack Software Engineer
-I am currently attending a Full Stack Software Engineering Bootcamp at [Actualize](https://anyonecanlearntocode.com/). I'm excited to begin a new chapter in my engineering journey. Skills that I will learn during the bootcamp include:
-- Debugging
+I am currently attending a Full Stack Software Engineering Bootcamp at [Actualize](https://anyonecanlearntocode.com/). I'm excited to begin a new chapter in my engineering journey.
+
+### What I'm Learning at Actualize
 - Ruby, JavaScript, HTML, CSS
 - Ruby on Rails, React.js, Bootstrap
 - Postgres, APIs, Git, Github
+- Debugging
 
-Other Interests Include:
+### Other Skills I'm Learning (Self-Taught)
 - Agile, Software Development Life Cycle, Scrum
 - Python, Java, PHP, Node.js
 - Django, Flask, Express, Spring
