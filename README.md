@@ -10,10 +10,11 @@ I am currently attending a Full Stack Software Engineering Bootcamp at [Actualiz
 - Debugging
 
 ### Other Skills I'm Learning (Self-Taught)
-- Agile, Software Development Life Cycle, Scrum
-- Python, Java, PHP, Node.js
-- Django, Flask, Express, Spring
-- SQL, REST, Linux, Apache, Docker
+- Methodologies: Agile, Software Development Life Cycle, Scrum
+- Programming Languages: Python, Java, PHP, Node.js
+- Web Frameworks: Django, Flask, Express, Spring
+- Databases: SQL, NoSQL, MySQL, MongoDB, Redis, Cassandra
+- Server-side Technologies: REST, Linux, Apache, Docker
 
 ### Learning Progress
 - [Continuous Learning](https://github.com/edwardminaya/continuous-learning)
