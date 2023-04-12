@@ -13,7 +13,7 @@ I am currently attending a Full Stack Software Engineering Bootcamp at [Actualiz
 - Methodologies: Agile, Software Development Life Cycle, Scrum
 - Programming Languages: Python, Java, PHP, Node.js
 - Web Frameworks: Django, Flask, Express, Spring
-- Databases: SQL, NoSQL, MySQL, MongoDB, Redis, Cassandra
+- Databases: SQL-Postgres, NoSQL-MongoDB
 - Server-side Technologies: REST, Linux, Apache, Docker
 
 ### Learning Progress
