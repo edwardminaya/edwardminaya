@@ -9,7 +9,7 @@ I am currently attending a Full Stack Software Engineering Bootcamp at [Actualiz
 - Postgres, APIs, Git, Github
 - Debugging
 
-### Other Skills/Interests I'm Learning (Self-Learning)
+### Other Interests (Self-Learning)
 - Methodologies: Agile, Software Development Life Cycle, Scrum
 - Programming Languages: Python, Java, PHP, Node.js
 - Web Frameworks: Django, Flask, Express, Spring
