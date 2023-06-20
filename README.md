@@ -9,7 +9,7 @@ I have a B.S. in Industrial Engineering and an M.B.A in Organizational Leadershi
 - Continuous Improvement
 - Kanban, Kaizen
 - [For more details see my LinkedIn](https://www.linkedin.com/in/edminaya/)
-- 
+  
 ### Current Tech Stack
 - Languages: Ruby, JavaScript, Python, SQL
 - Frameworks: Ruby on Rails, React.js
